@@ -144,6 +144,10 @@ sudo docker stop id
     <summary><b>Click Here For More Details</b></summary>
 ## Search All Drive Function
   For this Function to Work Edit
+## Open drive_folder edit and delete all those things
+Set your drive_folder file like this..
+- **Format** :
+Teamdrive_Name Folderid Index Url(Without '/')
     
 ## Mandotory Variables
 
